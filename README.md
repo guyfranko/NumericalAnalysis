@@ -1,6 +1,6 @@
 # Numerical Analysis
 
-Numerical analysis function using only numerical methods without external libraries.
+Numerical analysis functions using only numerical methods without external libraries.
 1) Interpolated function from points using spline interpolation by Bezier curve.
 2) Find intersections of functions only by samples of the functions.
 3) Integrate functions and calculate area between functions using Numerical methods.
